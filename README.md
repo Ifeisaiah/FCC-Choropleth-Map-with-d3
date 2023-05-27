@@ -1,5 +1,5 @@
 # FCC-Choropleth-Map-with-d3
-This is my solution to freeCodeCamp's choropleth map test from the Data Visualization course. I hope you find this helpful as I myself was thoroughly frustrated before I figured it out by getting help online.
+This is my solution to freeCodeCamp's choropleth map test from the Data Visualization course https://codepen.io/Luwa_I/pen/YzJMNBb?editors=0010. I hope you find this helpful as I myself was thoroughly frustrated before I figured it out by getting help online.
 
 First, we are told to create our choropleth map similar to this https://choropleth-map.freecodecamp.rocks.
 
